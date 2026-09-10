@@ -16,6 +16,7 @@ This is the **XM Cloud Front End Application Starter Kits** repository containin
 - `kit-nextjs-location-finder` - **Alaris** - Car brand template with location finder functionality
 - `kit-nextjs-product-listing` - **SYNC** - Product-focused template for audio gear companies
 - `kit-nextjs-skate-park` - Simple demo site showcasing component examples
+- `kit-nextjs-commerce-starter` - Commerce starter based on basic-nextjs, wired as "Site 4" in the Create Site wizard
 - `basic-spa` - SPA starter kit with Angular and Node proxy
 
 Each starter demonstrates:
