@@ -49,6 +49,7 @@ const Layout = ({ page }: LayoutProps): JSX.Element => {
               </div>
             </header>
             <main>
+              <h1>TEST</h1>
               <div id="content">
                 {route && (
                   <AppPlaceholder
